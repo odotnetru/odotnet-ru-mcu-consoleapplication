@@ -1,7 +1,7 @@
-# ODotNetRu - An simple example of the implementation of xml-rpc call to the device.info method of Cisco TelePresence MCU in C # using the API
+# ODotNetRu - An simple example of the implementation of xml-rpc call to the device.info method of Cisco TelePresence MCU in C# using the API
 
 ### [Official Site/Blog][1] - [@ODotNetRu][2]  
-### [Article][3]  
+### [Tutorial with step by step description of the implementation of a call to Cisco TelePresence MCU in C# using the API][3]  
 ### License: Apache License 2.0  
  
 ### Features
